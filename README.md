@@ -10,6 +10,9 @@
 [![Commits since last release](https://img.shields.io/github/commits-since/sympy/sympy/latest.svg?longCache=true&style=flat-square&logo=git&logoColor=fff)](https://github.com/sympy/sympy/releases)
 
 [![SymPy Banner](https://github.com/sympy/sympy/raw/master/banner.svg)](https://sympy.org/)
+## Upcoming Version
+
+We are excited to announce that a new version of SymPy is coming in December 2024! Stay tuned for more updates and features.
 
 
 See the [AUTHORS](AUTHORS) file for the list of authors.
