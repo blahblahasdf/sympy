@@ -278,3 +278,5 @@ details). That said, although not required by the SymPy license, if it
 is convenient for you, please cite SymPy when using it in your work and
 also consider contributing all your changes back, so that we can
 incorporate it and all of us will benefit in the end.
+
+junk
