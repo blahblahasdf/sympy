@@ -4,4 +4,4 @@ It has too many bugs!
 Test
 
 What did the Java developer say when they opened a gift box?
-It's a class package!
+Dependency injection???
