@@ -1,0 +1,7 @@
+There once was a coder quite bold,
+Who wrote programs both new and old.
+Their loops would nest deep,
+While recursion would leap,
+Till the stack overflow stories were told!
+
+// A classic limerick about the perils of deep recursion
