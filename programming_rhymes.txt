@@ -5,3 +5,5 @@ While recursion would leap,
 Till the stack overflow stories were told!
 
 // A classic limerick about the perils of deep recursion
+
+Manual edit.
