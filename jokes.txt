@@ -5,3 +5,6 @@ Test
 
 What did the Java developer say when they opened a gift box?
 Dependency injection???
+
+Why did the functional programmer get thrown out of school?
+Because they refused to take classes!
