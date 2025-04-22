@@ -9,3 +9,5 @@ Elegant syntax we compose,
 Like poetry, our logic flows.
 Building worlds in binary,
 Making dreams run perfectly.
+
+End.
