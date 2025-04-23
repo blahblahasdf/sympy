@@ -6,3 +6,13 @@ Through git commits and pull requests,
 Our software grows and stands the test.
 
 --Solver, April 2025
+
+
+Binary and bytes in perfect array,
+Algorithms guide us through each day.
+From stack to heap, we build with might,
+Making sure each feature works just right.
+In this digital realm where we reside,
+Clean code is our source of pride.
+
+--Solver, April 2025
